@@ -54,7 +54,7 @@ fn get_player_points(result: char, oponnent: char) -> u32 {
     return choice_points + match result {
         'X' => 0,
         'Y' => 3,
-        'Z' => 6,
+        'Z' => 6x,
         _ => panic!("Value Error")
     };
 }
