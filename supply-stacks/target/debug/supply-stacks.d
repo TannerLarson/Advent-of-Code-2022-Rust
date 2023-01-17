@@ -1,0 +1,1 @@
+/Users/tannerl/code/personal/advent-of-code-2022/supply-stacks/target/debug/supply-stacks: /Users/tannerl/code/personal/advent-of-code-2022/supply-stacks/input.txt /Users/tannerl/code/personal/advent-of-code-2022/supply-stacks/src/main.rs
